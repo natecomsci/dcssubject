@@ -10,6 +10,7 @@
   left:0;
   right: 0;
   background-color: white;
+  z-index: 100;
 }
 
 .left-section
@@ -61,7 +62,7 @@
 }
 .search-bar::placeholder
 {
-  font-family: Roboto, Arial;
+  font-family: Roboto;
   font-size: 16px;
 }
 .search-button{
