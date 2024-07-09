@@ -1,9 +1,15 @@
 .header
 {
-  height: 55px;
+  height: 60px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+
+  position:fixed;
+  top:0;
+  left:0;
+  right: 0;
+  background-color: white;
 }
 
 .left-section
@@ -84,8 +90,8 @@
 }
 .acm
 {
-  height: 70px;
-  border-radius: 25px;
+  height: 60px;
+  border-radius: 30px;
 }
 .csi
 {
