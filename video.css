@@ -1,7 +1,10 @@
+.video-preview
+{
 
+}
 .thumbnail
 {
-  height: 110px;
+  width: 100%;
 }
 
 .thumbnail-container
